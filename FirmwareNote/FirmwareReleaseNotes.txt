@@ -1,0 +1,5 @@
+HL: Sep032020
+Firmware:DVT2LogicBoardSep03.bin
+1.Digipot are set to 15 for all 6 Channel
+2.Comment out the updatesensorvalue function call in main loop to speed up the data collecting time
+3.Add some error code for temperatur and humidity reading

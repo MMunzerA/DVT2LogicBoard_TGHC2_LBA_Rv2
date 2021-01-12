@@ -1,0 +1,12 @@
+MCP_Read_Write.c:21:6:mcp_init	4	static
+MCP_Read_Write.c:46:6:mcp1_init	16	static
+MCP_Read_Write.c:72:6:mcp2_init	16	static
+MCP_Read_Write.c:95:9:mcp_read_reg	40	static
+MCP_Read_Write.c:113:9:mcp_write_reg	40	static
+MCP_Read_Write.c:122:9:mcp1_write	40	static
+MCP_Read_Write.c:128:9:mcp1_read	40	static
+MCP_Read_Write.c:135:9:mcp2_write	40	static
+MCP_Read_Write.c:141:9:mcp2_read	40	static
+MCP_Read_Write.c:147:6:set_mcp	32	static
+MCP_Read_Write.c:163:6:get_mcp	32	static
+MCP_Read_Write.c:185:6:Set_DigipotMCPs	24	static

@@ -1,0 +1,6 @@
+shtc3.c:23:12:shtc3_sendcmd	32	static
+shtc3.c:35:12:shtc3_read2x16	24	static
+shtc3.c:41:5:shtc3_init	24	static
+shtc3.c:51:14:shtc3_calculate_temp_c	24	static
+shtc3.c:65:14:shtc3_calculate_humid	24	static
+shtc3.c:76:5:shtc3_get_temp_humid	32	static
